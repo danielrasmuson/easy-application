@@ -102,6 +102,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [DoorDash](https://www.doordash.com/jobs/) | San Francisco, CA |
 | [Dot & Bo](https://www.dotandbo.com/careers) | San Francisco, CA |
 | [DraftKings](http://careers.draftkings.com/) | Boston, MA; New York, NY |
+| [DroneDeploy](https://www.dronedeploy.com/careers.html) | San Francisco; Remote |
 | [Dropbox](https://www.dropbox.com/jobs) | New York, NY; San Francisco, CA; Seattle, WA |
 | [Duolingo](https://www.duolingo.com/jobs) | Pittsburgh, PA |
 | [EagleView](https://www.eagleview.com/Careers.aspx) | Bothell, WA |
@@ -140,8 +141,8 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [GumGum](http://gumgum.com/careers) | Santa Monica, CA |
 | [Gusto](https://gusto.com/careers) | San Francisco, CA |
 | [HackerRank](https://www.hackerrank.com/careers) | Palo Alto, CA |
-| [Hailo](https://hailo.workable.com/) |  |
 | [Haiku Deck](https://www.haikudeck.com/jobs) | Seattle, WA |
+| [Hailo](https://hailo.workable.com/) |  |
 | [Hart, Inc.](http://hart.com/careers/) | Anaheim, CA |
 | [Helix](https://www.helix.com/careers/) | San Carlos, CA; San Diego, CA |
 | [Hipmunk](https://www.hipmunk.com/jobs) | San Francisco, CA |
